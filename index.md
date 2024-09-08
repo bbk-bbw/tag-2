@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/style.css">
 # Welcome to My Project Documentation
 
 This is where I will document my project.
